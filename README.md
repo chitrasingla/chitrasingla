@@ -6,7 +6,7 @@ How to reach me: https://www.linkedin.com/in/chitra-singla/
 
 [![Chitra's github stats](https://github-readme-stats.vercel.app/api?username=chitrasingla)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=chitrasingla)
 
 <!--
 **chitrasingla/chitrasingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
