@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Chitra Singla, 3rd year Sooftware Engineering Student at Delhi Technological University.
+
+How to reach me: https://www.linkedin.com/in/chitra-singla/
+
+[![Chitra's github stats](https://github-readme-stats.vercel.app/api?username=chitrasingla)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **chitrasingla/chitrasingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
