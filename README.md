@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Chitra Singla, 3rd year Sooftware Engineering Student at Delhi Technological University.
+I am Chitra Singla, 3rd year Software Engineering Student at Delhi Technological University.
 
 How to reach me: https://www.linkedin.com/in/chitra-singla/
 
